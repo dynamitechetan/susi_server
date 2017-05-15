@@ -169,7 +169,7 @@ Articles and tutorials are also on our blog at http://blog.loklak.net.
 
 ## Where do I find the javadocs?
 
-At http://susi.github.io/susi_server/ or by building them via 'ant javadoc'
+You can build javadocs by running 'ant javadoc'
 
 ## Where can I report bugs and make feature requests?
 
